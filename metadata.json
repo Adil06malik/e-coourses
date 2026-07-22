@@ -1,0 +1,8 @@
+{
+  "name": "Boston Institute of Analytics",
+  "description": "Replica of Boston Institute of Analytics (BIA) website offering professional technology, finance, animation, and management training courses globally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

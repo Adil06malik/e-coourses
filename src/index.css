@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+
+/* Your custom animations below */
+
+@keyframes profilePop {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+.animate-profilePop {
+  animation: profilePop 0.5s ease-out;
+}
+
+
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+
+* {
+  box-sizing: border-box;
+}
