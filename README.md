@@ -1,9 +1,7 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="course1.png" />
-   <img width="1200" height="475" alt="GHBanner" src="course2.png" />
+  <img src="course1.png" width="1200" alt="Course 1" />
+  <img src="course2.png" width="1200" alt="Course 2" />
 </div>
-
-
 
 ## Run Locally
 
