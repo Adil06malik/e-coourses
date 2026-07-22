@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="course1.png" width="1200" alt="Course 1" />
-  <img src="course2.png" width="1200" alt="Course 2" />
+  <img src="./src/assets/image/course1.png" width="1200" alt="Course 1" />
+  <br><br>
+  <img src="./src/assets/image/course2.png" width="1200" alt="Course 2" />
 </div>
 
 ## Run Locally
